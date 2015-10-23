@@ -1,4 +1,4 @@
-# ![Cody Paste Logo](https://raw.githubusercontent.com/loybert/cody-paste/master/assets/logo48.png "cody-paste")
+# ![Cody Paste Logo](https://raw.githubusercontent.com/loybert/cody-paste/master/assets/logo48.png "cody-paste") Cody Paste
 Find me in [Google Web Store](https://chrome.google.com/webstore/detail/cody-paste-the-qrcode-cli/cjbckamgdjccookeodgcafnjfmljbmgf).
 
 Paste any text-snippet into QR-Codes via shortcut (Windows: Ctrl+Shift+V | OSX: Cmd+Shift+V). And scan it with your smartphone.
